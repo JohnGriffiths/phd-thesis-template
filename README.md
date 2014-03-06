@@ -1,5 +1,6 @@
-
 JG Fork of KK's Latex PhD Thesis Template
+=========================================
+
 
 
 I am doing something slightly novel here: my thesis is written in ipython notebooks. 
