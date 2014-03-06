@@ -5,11 +5,11 @@ JG Fork of KK's Latex PhD Thesis Template
 
 I am doing something slightly novel here: my thesis is written in ipython notebooks. 
 
-Not going to go into that here. If you get it, you get it. It's a good idea. Seriously. 
+Not going to go into that here. If you get it, you get it. It's a good idea. Seriously. Welcome to the 21st century. 
 
 IPython's nbconvert tool does a very good job of generating latex docs from notebooks. 
 
-But KK's template here is super-comprehensive and it would be silly for me not to take advantage of it. My creative contribution here will be to find some dirty hacks to squeeze the .tex files from my nbconverted chapter notebooks into the structure necessary to run compile-thesis.sh and get a decent looking pdf. KK's repos is neatly but together and looks very intricate to my non-latex eyes. I will probably have to violate it in various inelegant ways to get what I want. I'm not going to lose any sleep over that. But apologies if it offends anyone. 
+But KK's template here is super-comprehensive and it would be silly for me not to take advantage of it. My creative contribution here will be to find some dirty hacks to squeeze the .tex files from my nbconverted chapter notebooks into the structure necessary to run compile-thesis.sh and get a decent looking pdf. KK's repos is neatly put together and looks very intricate to my non-latex eyes. I will probably have to violate it in various inelegant ways to get what I want. I'm not going to lose any sleep over that. But apologies if it offends anyone. 
 
 I guess some of the .tex file parsing I'm doing here might be generally useful for others thinking about how to squeeze nbconvert outputs into various other latex templates. 
 
